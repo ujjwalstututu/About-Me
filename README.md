@@ -14,15 +14,15 @@
 </div>
 
 
-<h1 align="center">Hi 👋, I'm Ujjwal Moolchandani</h1>
+<h1 align="center">Hey there, I'm Ujjwal Moolchandani</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">About Me</h3>
 
 ###
 
-<p align="left">I'm an Aspiring Analyst currently in my 3rd Year  of Engineering<br><br>- 📚 I'm currently upskilling myself on various technologies<br>- 📫 How to reach me ujjwal30moolchandani@gmail.com</p>
+<p align="left">I'm an Aspiring Software Engineer currently in my 4th Year  of Engineering<br><br>- I'm currently upskilling myself on various technologies<br>-  How to reach me ujjwal05m@gmail.com</p>
 
 ###
 
@@ -74,7 +74,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">My Stats :</h3>
 
 ###
 
